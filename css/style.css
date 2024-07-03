@@ -176,6 +176,9 @@ h2 {
   .fondoNegro{
     padding-top: 30px;
   }
+  main {
+    background-color: #c0b398;
+  }
 }
 
 /* Mobile */
@@ -222,4 +225,7 @@ h2 {
    width: 400px;
    height: auto;
  }
+ main {
+  background-color: #c0b398;
+}
 }
